@@ -1,0 +1,10 @@
+name: precolation 
+channels:
+    - conda-forge
+dependencies:
+    - python=3.6
+    - numpy
+    - matplotlib
+    - torch
+	- fenics
+	- mshr
