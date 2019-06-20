@@ -1,4 +1,4 @@
-name: precolation 
+name: percolation
 channels:
     - conda-forge
 dependencies:
