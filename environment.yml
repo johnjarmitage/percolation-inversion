@@ -3,9 +3,10 @@ channels:
   - conda-forge
   - pytorch
 dependencies:
-  - python=3.6
+  - python
   - numpy
-  - matplotlib
   - fenics
   - mshr
   - pytorch-cpu
+  - pip:
+      - matplotlib
