@@ -1,10 +1,11 @@
 name: percolation
 channels:
   - conda-forge
+  - pytorch
 dependencies:
   - python=3.6
   - numpy
   - matplotlib
-  - torch
   - fenics
   - mshr
+  - pytorch-cpu
