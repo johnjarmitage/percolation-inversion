@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - fenics
   - mshr
+  - pip
   - pip:
       - matplotlib
       - torch
