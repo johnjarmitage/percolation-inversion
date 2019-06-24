@@ -3,9 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - numpy
   - fenics
   - mshr
-  - pip
-  - pip:
-      - matplotlib
+  - matplotlib
+  - numpy
+ 
